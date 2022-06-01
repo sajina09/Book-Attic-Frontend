@@ -9,6 +9,7 @@ const BookFace = () => {
         </div>
       <div className="container">
         desc
+        This is Munu Ghimire
       </div>
     </div>
   )
