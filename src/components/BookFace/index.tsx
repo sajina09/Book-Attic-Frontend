@@ -5,7 +5,7 @@ const BookFace = () => {
   return (
     <div className='main-container'>
         <div className="book-image">
-            image
+            image , ohh heyyyyyyyyyyyyyyy sajinaaaaaaaa
         </div>
       <div className="container">
         desc
